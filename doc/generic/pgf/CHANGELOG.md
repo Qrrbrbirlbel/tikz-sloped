@@ -20,6 +20,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Resolve missing `gnuplot` plots in manual #1238
 - Treat varargs for `min` and `max` in `luamath` pgf-tikz/pgfplots#492 #1359
 - Fixed support for the `\tikz` command in the `dvisvgm4ht` driver for TeX4ht
+- Fixes `quotes` library on `also`-ed nodes in the `graphs` library #1355
 
 ### Changed
 
